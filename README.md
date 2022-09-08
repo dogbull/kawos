@@ -62,3 +62,10 @@ pd.read_csv(f'https://raw.githubusercontent.com/dogbull/obser/master/daily/awsda
 pd.read_csv(f'https://raw.githubusercontent.com/dogbull/obser/master/pointly/aws/96/2021/96.2021.csv')
 ```
 
+
+
+## 출처
+
+> 본 저작물은 [기상청](https://www.kma.go.kr)에서 작성하여 공공누리 제1유형으로 개방한 `종관기상관측`, `방재기상관측`을 이용하였으며,
+해당 저작물은 [기상자료개방포털](https://data.kma.go.kr/)에서 무료로 다운받으실 수 있습니다.
+
